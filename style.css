@@ -1,0 +1,52 @@
+html {
+  background: #0c6c9d;
+}
+
+body {
+  text-align: center;
+  width: 700px;
+  padding: 30px 50px;
+  margin: 20px auto;
+  border-radius: 20px;
+  background: white;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+ 
+#divine {
+  border: 1px solid red;
+  margin: 0px auto;
+}
+#divine td {
+  border: 1px dotted blue;
+  padding: 10px;
+  margin: 0px auto;
+}
+#row-1 {
+background-color: #050505;
+color: white;
+}
+.block {
+  background-color: black;
+  color: white;
+}
+.time {
+  font-size: 8px;
+  font-style: italic;
+}
+.subject:hover {
+  background: #06413a;
+  color: white;
+  cursor: cell;
+  font-size: 12px;
+  transition: font-size 0.5s, background 0.5s, color,05s;
+}
+
+#table2 {
+  background-color: #0c6c9d;
+  margin: 20px auto;
+  padding: 30px;
+  border-radius: 20px;
+}
+img {
+  margin: 0px 50px auto;
+}
